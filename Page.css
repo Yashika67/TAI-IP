@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:#faf9fd;
+    font-family:Monotype Corsiva;
+}
+#icon{
+    height: 50px;
+    width: 100%;
+    display:inline-flex;
+    background-color: #4ba58f3d;
+    padding: 15px;
+    text-decoration: none;
+    margin: 15px;
+}
+#name{
+    opacity: 0.7;
+    box-shadow: 10px 5px 5px 10px black;
+    font-size:80px;
+    padding-left:450px;
+    font-family:Monotype Corsiva;
+    color:#4ba58ff6;
+    margin: 0%;
+}
+i{
+    margin-left: 160px;
+}
+#Select{
+    height: 100px;
+    width: 100%;
+    display:inline-flex;
+    background-color: #215245e8;
+    padding: 15px;
+}
+h3{
+    margin-left: 100px;
+    margin-right: 90px;
+    text-decoration: none;
+
+}
+a{
+    text-decoration: none;
+    color:rgb(98, 207, 171)
+}
+img{
+    margin: 10px;
+    padding-left: 200px;
+    height: 500px;
+    width: 800px;
+}
+.Recipe{
+    font-size: 40px;
+    font-family:Monotype Corsiva;
+    color: black;
+}
+.nav{
+    color: black;
+}
+li{
+    font-size: 20px;
+}
+ul{
+    box-shadow:  10px 5px 5px 10px black;
+    font-family:Monotype Corsiva;
+    font-size: 20px;
+}
+p{
+    font-size: 30px;
+    font-family:Monotype Corsiva;
+}
